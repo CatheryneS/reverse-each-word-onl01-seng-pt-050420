@@ -1,5 +1,5 @@
 def reverse_each_word(str)
-  reversed = ""
+  reversed = []
   str.each { 
-  reversed
+  reversed.join(" ")
 end
