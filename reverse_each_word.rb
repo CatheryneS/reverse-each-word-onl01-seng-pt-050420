@@ -1,4 +1,6 @@
 def reverse_each_word(string)
  str = string.split
- str.each 
+ reversed = ""
+ str.each { |letter| reversed << "#{letter}" }
+ reversed
 end
