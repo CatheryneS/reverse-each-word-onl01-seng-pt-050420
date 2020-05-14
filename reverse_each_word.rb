@@ -4,3 +4,4 @@ def reverse_each_word(string)
  str.each { |letter| reversed << "#{letter}" }
  reversed.reverse.join(" ")
 end
+
