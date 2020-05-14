@@ -7,5 +7,5 @@ end
 
 #def reverse_each_word(string)
  #str = string.reverse.split
- #str.collect
-#end
+ str.collect
+end
