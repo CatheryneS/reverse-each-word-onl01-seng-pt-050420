@@ -1,5 +1,4 @@
-def reverse_each_word(str)
-  reversed = []
-  str.each { 
-  reversed.join(" ")
+def reverse_each_word(string)
+ str = string.split
+ str.each 
 end
