@@ -5,7 +5,7 @@ def reverse_each_word(string)
  reversed.reverse.join(" ")
 end
 
-def reverse_each_word(string)
- str = string.reverse.split
- str.collect
-end
+#def reverse_each_word(string)
+ #str = string.reverse.split
+ #str.collect
+#end
